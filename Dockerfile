@@ -1,5 +1,5 @@
 FROM debian:11
-FROM python:3.10.5-slim-buster
+FROM python:3.10.11-slim-buster
 
 WORKDIR /EmikoRobot/
 
