@@ -85,3 +85,4 @@ fuzzysearch
 img2pdf
 multicolorcaptcha
 git+https://github.com/python-telegram-bot/ptbcontrib.git
+tornado>=6.3.2 # not directly required, pinned by Snyk to avoid a vulnerability
